@@ -7,3 +7,8 @@
 .temperature{
   font-size:5em;
 }
+
+#dropdown li{
+  position: relative;
+  text-align: center;
+}
